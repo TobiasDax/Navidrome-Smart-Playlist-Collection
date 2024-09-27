@@ -1,0 +1,15 @@
+{
+  "any": [
+    {
+      "inPlaylist": {
+        "id": "24523ca5-3a4e-4ec1-8cc8-fa5eb25cba7f"
+      }
+    },
+    {
+      "inPlaylist": {
+        "id": "8d6162f6-1cc7-4079-a92f-7ea7c2c36710"
+      }
+    }
+  ],
+  "sort": "random"
+}

@@ -1,0 +1,18 @@
+{
+      "any": [
+      {"contains": {"artist": "VOCAL"}},
+      {"contains": {"artist": "Simson Gang"}},
+      {"contains": {"artist": "Rammstein"}},
+      {"contains": {"artist": "Kontrust"}},
+      {"contains": {"artist": "Jennifer Rostock"}},
+      {"contains": {"artist": "H\u00E4matom"}},
+      {"contains": {"artist": "Herzlos"}},
+      {"contains": {"artist": "Equilibrium"}},
+      {"contains": {"artist": "Eisregen"}},
+      {"contains": {"artist": "Die Apokalyptischen Reiter"}},
+      {"contains": {"artist": "Callejon"}},
+      {"contains": {"artist": "Hämatom"}}
+],
+"order": "desc",
+"sort": "artist"
+}

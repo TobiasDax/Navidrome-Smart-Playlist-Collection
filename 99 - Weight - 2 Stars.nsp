@@ -1,0 +1,16 @@
+{
+  "all": [
+    {
+      "is": {
+        "rating": 2
+      }
+    },
+    {
+      "notInTheLast": {
+        "lastplayed": "14"
+      }
+    }
+  ],
+  "sort": "random",
+  "limit": 40
+}
