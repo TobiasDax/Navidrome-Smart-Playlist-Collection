@@ -1,0 +1,16 @@
+{
+  "any": [
+    {
+      "inPlaylist": {
+        "id": "62c7091c-e9b9-4534-b25a-8268fde5de60"
+      }
+    },
+    {
+      "is": {
+        "rating": "3"
+      }
+    }
+  ],
+  "sort": "random",
+  "limit": 50
+}

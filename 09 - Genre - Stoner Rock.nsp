@@ -1,0 +1,19 @@
+{
+  "any": [
+      {"contains": {"artist": "Samsara Blues Experiment"}},
+      {"contains": {"artist": "RaksMcFrost"}},
+      {"contains": {"artist": "Queens of the Stone Age"}},
+      {"contains": {"artist": "My Sleeping Karma"}},
+      {"contains": {"artist": "Karma to Burn"}},
+      {"contains": {"artist": "Jah Sadik"}},
+      {"contains": {"artist": "Earthless"}},
+      {"contains": {"artist": "Decent Tribe"}},
+      {"contains": {"artist": "Colour Haze"}},
+      {"contains": {"artist": "Burnt Fur"}},
+      {"contains": {"artist": "Brant Bjork"}},
+      {"contains": {"artist": "All Them Witches"}},
+      {"contains": {"artist": "Stoned Jesus"}}
+      ],
+"order": "desc",
+"sort": "artist"
+}

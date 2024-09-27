@@ -1,0 +1,14 @@
+{
+  "all": [
+    {
+      "inTheLast": {
+        "dateadded": "21"
+      }
+    },
+    {
+      "lt": {
+        "rating": 1
+      }
+    }
+  ]
+}

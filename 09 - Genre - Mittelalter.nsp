@@ -1,0 +1,13 @@
+{
+  "any": [
+      {"contains": {"artist": "In Extremo"}},
+      {"contains": {"artist": "Ignis Fatuu"}},
+      {"contains": {"artist": "Schandmaul"}},
+      {"contains": {"artist": "Subway to Sally"}},
+      {"contains": {"artist": "Coppelius"}},
+      {"contains": {"artist": "Feuerschwanz"}},
+      {"contains": {"artist": "Saltatio Mortis"}}
+],
+"order": "desc",
+"sort": "artist"
+}
