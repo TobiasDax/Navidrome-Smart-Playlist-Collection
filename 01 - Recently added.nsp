@@ -1,0 +1,8 @@
+{
+  "all": [
+    {"inTheLast": {"dateadded": "90"}}
+  ],
+  "sort": "lastPlayed",
+  "order": "desc",
+  "limit": 100
+}
