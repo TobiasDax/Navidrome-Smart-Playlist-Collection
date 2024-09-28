@@ -1,0 +1,10 @@
+{
+  "any": [
+    {"contains": {"album": "Santa Claus"}},
+    {"contains": {"album": "christmas"}},
+    {"contains": {"album": "xmas"}}   
+  ],
+  "sort": "lastPlayed",
+  "order": "desc",
+  "limit": 200
+}
