@@ -19,6 +19,7 @@
       {"contains": {"artist": "HIM"}},
       {"contains": {"artist": "Marylin Manson"}},
       {"contains": {"artist": "Miime"}},
+      {"contains": {"artist": "Weena Morloch"}},
       {"contains": {"artist": "Eisbrecher"}},
       {"contains": {"artist": "Blutengel"}},
       {"contains": {"artist": "Adversus"}},
