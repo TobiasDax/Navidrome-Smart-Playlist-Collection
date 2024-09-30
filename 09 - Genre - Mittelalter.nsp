@@ -5,6 +5,7 @@
       {"contains": {"artist": "Schandmaul"}},
       {"contains": {"artist": "Subway to Sally"}},
       {"contains": {"artist": "Coppelius"}},
+      {"contains": {"artist": "Schelmish"}},
       {"contains": {"artist": "Feuerschwanz"}},
       {"contains": {"artist": "Saltatio Mortis"}}
 ],
