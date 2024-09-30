@@ -148,6 +148,7 @@
       {"contains": {"artist": "Henning Wehland"}},
       {"contains": {"artist": "Herr Rotmann"}},
       {"contains": {"artist": "Herrenmagazin"}},
+      {"contains": {"artist": "Disguising Grace"}},
       {"contains": {"artist": "Hilltop Hoods"}},
       {"contains": {"artist": "His Statue Falls"}},
       {"contains": {"artist": "Honigdieb"}},

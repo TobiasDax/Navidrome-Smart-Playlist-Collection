@@ -224,6 +224,7 @@
       {"contains": {"artist": "Kerstin Ott"}},
       {"contains": {"artist": "Aaryan"}},
       {"contains": {"artist": "Cailín"}},
+      {"contains": {"artist": "Dok & Martin"}},
       {"contains": {"artist": "Boards of Canada"}},
       {"contains": {"artist": "Steve Aoki"}}
       ],
