@@ -25,6 +25,7 @@
       {"contains": {"artist": "BABYMETAL"}},
       {"contains": {"artist": "Zeal &amp; Ardor"}},
       {"contains": {"artist": "Your Demise"}},
+      {"contains": {"artist": "Upon this Dawning"}},
       {"contains": {"artist": "Xorjt"}},
       {"contains": {"artist": "Woods Of Ypres"}},
       {"contains": {"artist": "Wolfmother"}},

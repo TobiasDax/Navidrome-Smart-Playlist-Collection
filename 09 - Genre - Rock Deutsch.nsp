@@ -11,6 +11,8 @@
       {"contains": {"artist": "Eisregen"}},
       {"contains": {"artist": "Die Apokalyptischen Reiter"}},
       {"contains": {"artist": "Callejon"}},
+      {"contains": {"artist": "Störte.Priester"}},
+      {"contains": {"artist": "Indecent Behavior"}},
       {"contains": {"artist": "Hämatom"}}
 ],
 "order": "desc",

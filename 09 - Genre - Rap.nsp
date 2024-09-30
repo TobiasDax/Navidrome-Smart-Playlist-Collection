@@ -219,6 +219,7 @@
       {"contains": {"artist": "Ludacris"}},
       {"contains": {"artist": "Belly"}},
       {"contains": {"artist": "Dero & Klumzy"}},
+      {"contains": {"artist": "Gorilla Voltage"}},
       {"contains": {"artist": "Macklemore"}},
       {"contains": {"artist": "No Wyld"}},
       {"contains": {"artist": "Twiztid"}},
