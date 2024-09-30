@@ -213,6 +213,7 @@
       {"contains": {"artist": "Great Big World"}},
       {"contains": {"artist": "Mindflip"}},
       {"contains": {"artist": "grandson"}},
+      {"contains": {"artist": "Urthboy"}},
       {"contains": {"artist": "Dillon Cooper"}},
       {"contains": {"artist": "Awon & Phoniks"}},
       {"contains": {"artist": "Apathy"}},

@@ -320,8 +320,6 @@
       {"contains": {"artist": "Me First and the Gimme Gimmes"}},
       {"contains": {"artist": "Oxo 86"}},
       {"contains": {"artist": "Unantastbar"}},
-      {"contains": {"artist": "Versus Them"}},
-      {"contains": {"artist": "Urthboy"}},
       {"contains": {"artist": "NoFuture"}}
       ],
 "order": "desc",
