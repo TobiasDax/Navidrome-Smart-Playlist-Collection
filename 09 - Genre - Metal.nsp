@@ -22,6 +22,7 @@
       {"contains": {"artist": "emapdpd"}},
       {"contains": {"artist": "Children of Bodom"}},
       {"contains": {"artist": "Zico Chain"}},
+      {"contains": {"artist": "BABYMETAL"}},
       {"contains": {"artist": "Zeal &amp; Ardor"}},
       {"contains": {"artist": "Your Demise"}},
       {"contains": {"artist": "Xorjt"}},

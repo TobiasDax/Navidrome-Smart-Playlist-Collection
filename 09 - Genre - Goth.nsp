@@ -17,6 +17,8 @@
       {"contains": {"artist": "IZZYCHAN13"}},
       {"contains": {"artist": "Heino"}},
       {"contains": {"artist": "HIM"}},
+      {"contains": {"artist": "Marylin Manson"}},
+      {"contains": {"artist": "Miime"}},
       {"contains": {"artist": "Eisbrecher"}},
       {"contains": {"artist": "Blutengel"}},
       {"contains": {"artist": "Adversus"}},
