@@ -30,6 +30,7 @@
       {"contains": {"artist": "Oxmo"}},
       {"contains": {"artist": "bass sick shit"}},
       {"contains": {"artist": "Peitsche"}},
+      {"contains": {"artist": "Divakollektiv"}},
       {"contains": {"artist": "Mann kackt sich in die Hose"}},
       {"contains": {"artist": "Korrosion"}},
       {"contains": {"artist": "Moiterei"}},
