@@ -1,0 +1,33 @@
+{
+  "all": [
+    {
+      "isNot": {
+        "rating": 1
+      }
+    },
+    {
+      "isNot": {
+        "rating": 2
+      }
+    },
+    {
+      "any": [
+        {
+          "is": {
+            "artist": "Loikaemie"
+          }
+        },
+        {
+          "is": {
+            "artist": "Pestpocken"
+          }
+        },
+        {
+          "is": {
+            "artist": "Lion’s Law"
+          }
+        }
+      ]
+    }
+  ]
+}
