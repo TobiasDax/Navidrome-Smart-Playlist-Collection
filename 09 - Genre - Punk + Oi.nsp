@@ -30,6 +30,8 @@
       {"contains": {"artist": "Oxmo"}},
       {"contains": {"artist": "bass sick shit"}},
       {"contains": {"artist": "Peitsche"}},
+      {"contains": {"artist": "Pestpocken"}},
+      {"contains": {"artist": "Tom+Ullah"}},
       {"contains": {"artist": "Divakollektiv"}},
       {"contains": {"artist": "Mann kackt sich in die Hose"}},
       {"contains": {"artist": "Korrosion"}},
