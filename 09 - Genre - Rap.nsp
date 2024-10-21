@@ -228,6 +228,7 @@
       {"contains": {"artist": "Clever"}},
       {"contains": {"artist": "JL"}},
       {"contains": {"artist": "Larry Ohh"}},
+      {"contains": {"artist": "Incredible Beatbox Band"}},
       {"contains": {"artist": "Mackenzie Nicole"}}
       ],
 "order": "desc",
