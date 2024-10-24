@@ -1,0 +1,33 @@
+{
+  "all": [
+    {
+      "isNot": {
+        "rating": 1
+      }
+    },
+    {
+      "isNot": {
+        "rating": 2
+      }
+    },
+    {
+      "any": [
+        {
+          "is": {
+            "artist": "ASP"
+          }
+        },
+        {
+          "is": {
+            "artist": "Samsas TRaum"
+          }
+        },
+        {
+          "is": {
+            "artist": "2 Minds Collide"
+          }
+        }
+      ]
+    }
+  ]
+}
