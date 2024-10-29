@@ -19,6 +19,7 @@
       {"contains": {"artist": "Breed77"}},
       {"contains": {"artist": "Fränk Zimmer"}},
       {"contains": {"artist": "Downstait"}},
+      {"contains": {"artist": "Pixies"}},
       {"contains": {"artist": "The Black Pacific"}},
       {"contains": {"artist": "Chuck Berry"}},
       {"contains": {"artist": "Editors"}},
