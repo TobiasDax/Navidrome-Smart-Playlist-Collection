@@ -20,6 +20,8 @@
       {"contains": {"artist": "heavyyoungheathens"}},
       {"contains": {"artist": "heavy young heathens"}},
       {"contains": {"artist": "emapdpd"}},
+      {"contains": {"artist": "Metallica"}},
+      {"contains": {"artist": "Motörhead"}},
       {"contains": {"artist": "Children of Bodom"}},
       {"contains": {"artist": "Zico Chain"}},
       {"contains": {"artist": "BABYMETAL"}},

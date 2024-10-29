@@ -31,6 +31,8 @@
       {"contains": {"artist": "Letzte Instanz"}},
       {"contains": {"artist": "Æther Realm"}},
       {"contains": {"artist": "Nachtblut"}},
+      {"contains": {"artist": "2 Minds Collide"}},
+      {"contains": {"artist": "Two Minds Collide"}},
       {"contains": {"artist": "Nachtgeschrei"}}
   ],
   "order": "desc",
