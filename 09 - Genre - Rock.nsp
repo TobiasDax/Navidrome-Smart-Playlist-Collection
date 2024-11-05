@@ -366,6 +366,7 @@
       {"contains": {"artist": "Saliva"}},
       {"contains": {"artist": "Rush"}},
       {"contains": {"artist": "SR‐71"}},
+      {"contains": {"artist": "Moros Eros"}},
       {"contains": {"artist": "We Came as Romans"}},
       {"contains": {"artist": "Steve ’n’ Seagulls"}},
       {"contains": {"artist": "Marmozets"}}

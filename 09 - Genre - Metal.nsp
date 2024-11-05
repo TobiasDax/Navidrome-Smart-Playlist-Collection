@@ -153,6 +153,7 @@
       {"contains": {"artist": "Nonpoint"}},
       {"contains": {"artist": "Northern Kings"}},
       {"contains": {"artist": "TrollfesT"}},
+      {"contains": {"artist": "Suicide Club"}},
       {"contains": {"artist": "Wisdom in Chains"}}
 ],
 "order": "desc",
