@@ -1,0 +1,11 @@
+{
+  "any": [
+    {"contains": {"album": "Unter meinem Bett"}},
+    {"contains": {"artist": "Bummelkasten"}},
+    {"contains": {"artist": "HerrH"}},
+    {"contains": {"artist": "Randale"}},
+    {"contains": {"artist": "Kai Lüftner"}},
+    {"contains": {"artist": "Deine Freunde"}}   
+  ],
+  "sort": "artist"
+}
