@@ -267,6 +267,8 @@
       {"contains": {"artist": "Die Grüne Welle"}},
       {"contains": {"artist": "WTZ"}},
       {"contains": {"artist": "Vogelfrei"}},
+      {"contains": {"artist": "Quartier Libre"}},
+      {"contains": {"artist": "KMPFSPRT"}},
       {"contains": {"artist": "Missstand"}},
       {"contains": {"artist": "Commandantes"}},
       {"contains": {"artist": "Scartex"}},
