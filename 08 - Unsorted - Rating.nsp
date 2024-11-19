@@ -10,5 +10,7 @@
         "rating": 1
       }
     }
-  ]
+  ],
+      "order": "desc",
+      "sort": "artist"
 }
