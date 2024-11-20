@@ -28,11 +28,13 @@
       {"contains": {"artist": "[x]-RX"}},
       {"contains": {"artist": "Northern Light"}},
       {"contains": {"artist": "Megaherz"}},
+      {"contains": {"artist": "THIS DARK NOISE"}},
       {"contains": {"artist": "Letzte Instanz"}},
       {"contains": {"artist": "Æther Realm"}},
       {"contains": {"artist": "Nachtblut"}},
       {"contains": {"artist": "2 Minds Collide"}},
       {"contains": {"artist": "Two Minds Collide"}},
+      {"contains": {"artist": "Lacrimosa"}},
       {"contains": {"artist": "Nachtgeschrei"}}
   ],
   "order": "desc",

@@ -1,5 +1,6 @@
 {
   "any": [
+      {"contains": {"album": "Sloppy Seconds"}},
       {"contains": {"artist": "2 Chainz"}},
       {"contains": {"artist": "The Lacs"}},
       {"contains": {"artist": "TerrinX"}},

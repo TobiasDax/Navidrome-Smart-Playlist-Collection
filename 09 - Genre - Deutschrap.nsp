@@ -1,5 +1,7 @@
 {
   "any": [
+      {"contains": {"album": "Refugees Welcome"}},
+      {"is": {"artist": "Boz"}},
       {"contains": {"artist": "Age.B.O."}},
       {"contains": {"artist": "K.I.Z."}},
       {"contains": {"artist": "K.I.Z"}},
@@ -29,7 +31,6 @@
       {"contains": {"artist": "Disarstar"}},
       {"contains": {"artist": "Alligatoah"}},
       {"contains": {"artist": "Ansa"}},
-      {"is": {"artist": "Boz"}},
       {"contains": {"artist": "Antilopen Gang"}},
       {"contains": {"artist": "Arbok 48"}},
       {"contains": {"artist": "Battleboi"}},
@@ -143,6 +144,7 @@
       {"contains": {"artist": "Bass Sultan Hengzt"}},
       {"contains": {"artist": "S. Castro"}},
       {"contains": {"artist": "Jan Delay"}},
+      {"contains": {"artist": "IvanG"}},
       {"contains": {"artist": "ALC und Band"}}
   ],
   "order": "desc",
