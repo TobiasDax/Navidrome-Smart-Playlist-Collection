@@ -1,5 +1,9 @@
 {
   "any": [
+      {"contains": {"album": "Slow Rock"}},
+      {"contains": {"album": "Hardcore Henry"}},
+      {"contains": {"album": "Aggropop Now!"}},
+      {"contains": {"album": "52 Lessons on Life"}},
       {"contains": {"artist": "3 Doors Down"}},
       {"contains": {"artist": "182"}},
       {"contains": {"artist": "thebennies420"}},

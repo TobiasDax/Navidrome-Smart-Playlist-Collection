@@ -1,5 +1,7 @@
 {
   "any": [
+      {"contains": {"album": "Elektroanschlag"}},
+      {"is": {"artist": "Exx"}},
       {"contains": {"artist": "AKA AKA, Thalstroem"}},
       {"contains": {"artist": "AdryxG"}},
       {"contains": {"artist": "T»MA"}},
@@ -106,7 +108,6 @@
       {"contains": {"artist": "Timmy Trumpet"}},
       {"contains": {"artist": "Haezer"}},
       {"contains": {"artist": "Hallucinator"}},
-      {"is": {"artist": "Exx"}},
       {"contains": {"artist": "Hallucinator und Isacco Pattini"}},
       {"contains": {"artist": "High Tone"}},
       {"contains": {"artist": "HisKing"}},
@@ -228,6 +229,7 @@
       {"contains": {"artist": "Kerstin Ott"}},
       {"contains": {"artist": "Aaryan"}},
       {"contains": {"artist": "Cailín"}},
+      {"contains": {"artist": "Dark Noize"}},
       {"contains": {"artist": "Dok & Martin"}},
       {"contains": {"artist": "Boards of Canada"}},
       {"contains": {"artist": "Steve Aoki"}}

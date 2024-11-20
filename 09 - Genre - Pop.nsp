@@ -1,5 +1,7 @@
 {
   "any": [
+      {"contains": {"album": "CD Zur SLAM"}},
+      {"contains": {"album": "Absolute Music"}},
       {"contains": {"artist": "VAN HOLZEN"}},
       {"contains": {"artist": "Angel Haze"}},
       {"contains": {"artist": "Steffi Bella"}},
