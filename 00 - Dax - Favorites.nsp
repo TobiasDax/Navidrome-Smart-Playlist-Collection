@@ -1,14 +1,32 @@
 {
-    "any": [
-      {
-        "inPlaylist": {
-          "id": "41f4d1de-a041-462f-bf2e-668a2e1fc325"
-        }
-      },
-      {
-        "inPlaylist": {
-          "id": "21f2b31a-e761-42bc-956b-f4b51e239c05"
-        }
+  "all": [
+    {
+      "any": [
+        {
+      "notInPlaylist": {
+        "id": "546a1b1c-16d3-47da-b962-2726223cfab5"
       }
-    ]
-  }
+    },
+    {
+      "notInPlaylist": {
+        "id": "daa0dfcf-8da4-44f4-b7ee-40ec86c5b12d"
+      }
+    }
+      ]
+    },
+    {
+      "any": [
+        {
+          "inPlaylist": {
+            "id": "21f2b31a-e761-42bc-956b-f4b51e239c05"
+          }
+        },
+        {
+          "inPlaylist": {
+            "id": "41f4d1de-a041-462f-bf2e-668a2e1fc325"
+          }
+        }
+      ]
+    }
+  ]
+}
