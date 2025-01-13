@@ -20,6 +20,7 @@
       {"contains": {"artist": "Chewing On Tinfoil"}},
       {"contains": {"artist": "Happy Ol’ McWeasel"}},
       {"contains": {"artist": "ESA"}},
+      {"contains": {"artist": "Dance to the Revolution"}},
       {"contains": {"artist": "Coquettish"}},
       {"contains": {"artist": "Die Schröders"}},
       {"contains": {"artist": "Volxsturm"}},
