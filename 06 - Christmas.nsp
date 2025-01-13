@@ -23,6 +23,7 @@
     {"contains": {"album": "Two Turtle Doves"}},
     {"contains": {"album": "It's A Holiday Soul Party"}},
     {"contains": {"album": "MERRY CHRISTMASS"}},
+    {"contains": {"album": "White Christmas Blue"}},
     {"contains": {"album": "Christmas"}} 
   ],
   "sort": "lastPlayed",
