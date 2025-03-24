@@ -44,6 +44,7 @@
       {"contains": {"artist": "Mamas Liebling"}},
       {"contains": {"artist": "The Cab"}},
       {"contains": {"artist": "KANGOS"}},
+      {"contains": {"artist": "ポルカドットスティングレイ"}},
       {"contains": {"artist": "Crayon"}},
       {"contains": {"artist": "Krombacher MC"}},
       {"contains": {"artist": "The Cranberries"}},
@@ -355,6 +356,7 @@
       {"contains": {"artist": "Ill Factor"}},
       {"contains": {"artist": "The xx"}},
       {"contains": {"artist": "Sun Ra"}},
+      {"contains": {"artist": "Smokey Robinson & The Miracles"}},
       {"contains": {"artist": "G‐Dragon"}},
       {"contains": {"artist": "Gnackwatschn"}}
       ],

@@ -1,5 +1,6 @@
 {
       "any": [
+      {"contains": {"album": "Soundwave XV"}},
       {"contains": {"artist": "Nightwish"}},
       {"contains": {"artist": "Alive In The Dark"}},
       {"contains": {"artist": "SKÁLD"}},
@@ -156,6 +157,15 @@
       {"contains": {"artist": "Apocalyptica"}},
       {"contains": {"artist": "Suicide Club"}},
       {"contains": {"artist": "Thousand Foot Krutch"}},
+      {"contains": {"artist": "Drowning Pool"}},
+      {"contains": {"artist": "Godsmack"}},
+      {"contains": {"artist": "Koitrix"}},
+      {"contains": {"artist": "Tribal Ink"}},
+      {"contains": {"artist": "Kyono"}},
+      {"contains": {"artist": "Mikau"}},
+      {"contains": {"artist": "Attila"}},
+      {"contains": {"artist": "American Head Charge"}},
+      {"contains": {"artist": "New Found Glory"}},
       {"contains": {"artist": "Wisdom in Chains"}}
 ],
 "order": "desc",

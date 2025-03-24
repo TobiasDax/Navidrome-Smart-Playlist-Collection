@@ -72,5 +72,5 @@
     }
   ],
   "order": "desc",
-  "sort": "album"
+  "sort": "artist"
 }
