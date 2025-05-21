@@ -2,6 +2,7 @@
   "any": [
       {"contains": {"album": "Ska, Ska, Skandal"}},
       {"contains": {"album": "Global Ska"}},
+      {"contains": {"album": "Dance to the Revolution"}},
       {"contains": {"artist": "Voodoo Glow Skulls"}},
       {"contains": {"artist": "Chancha Vía Circuito"}},
       {"contains": {"artist": "The Skatoons"}},
