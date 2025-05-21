@@ -228,6 +228,8 @@
       {"contains": {"artist": "XXXTENTACION"}},
       {"contains": {"artist": "Clever"}},
       {"contains": {"artist": "JL"}},
+      {"contains": {"artist": "Zamay"}},
+      {"contains": {"artist": "Slava KPSS"}},
       {"contains": {"artist": "Larry Ohh"}},
       {"contains": {"artist": "Incredible Beatbox Band"}},
       {"contains": {"artist": "Mackenzie Nicole"}}

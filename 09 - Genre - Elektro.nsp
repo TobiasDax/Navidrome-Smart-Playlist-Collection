@@ -230,6 +230,8 @@
       {"contains": {"artist": "Kerstin Ott"}},
       {"contains": {"artist": "Aaryan"}},
       {"contains": {"artist": "Cailín"}},
+      {"contains": {"artist": "Грибы"}},
+      {"contains": {"artist": "will.i.am"}},
       {"contains": {"artist": "Dark Noize"}},
       {"contains": {"artist": "Dok & Martin"}},
       {"contains": {"artist": "Boards of Canada"}},
