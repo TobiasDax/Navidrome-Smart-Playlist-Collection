@@ -1,0 +1,48 @@
+{
+  "all": [
+    {
+      "isNot": {
+        "rating": 1
+      }
+    },
+    {
+      "isNot": {
+        "rating": 2
+      }
+    },
+    {
+      "any": [
+        {
+          "is": {
+            "artist": "WIZO"
+          }
+        },
+        {
+          "is": {
+            "artist": "Pennywise"
+          }
+        },
+        {
+          "is": {
+            "artist": "Propaghandi"
+          }
+        },
+        {
+          "is": {
+            "artist": "Comeback Kid"
+          }
+        },
+        {
+          "is": {
+            "artist": "Iron Roses"
+          }
+        },
+        {
+          "is": {
+            "artist": "Dead Pioneers"
+          }
+        }
+      ]
+    }
+  ]
+}
