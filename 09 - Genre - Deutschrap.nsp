@@ -145,6 +145,7 @@
       {"contains": {"artist": "S. Castro"}},
       {"contains": {"artist": "Jan Delay"}},
       {"contains": {"artist": "IvanG"}},
+      {"contains": {"artist": "Babsi Tollwut"}},
       {"contains": {"artist": "ALC und Band"}}
   ],
   "order": "desc",
