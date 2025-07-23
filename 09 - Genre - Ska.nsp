@@ -2,6 +2,7 @@
   "any": [
       {"contains": {"album": "Ska, Ska, Skandal"}},
       {"contains": {"album": "Global Ska"}},
+      {"contains": {"album": "Having a Laugh"}},
       {"contains": {"album": "Dance to the Revolution"}},
       {"contains": {"artist": "Voodoo Glow Skulls"}},
       {"contains": {"artist": "Chancha Vía Circuito"}},
@@ -96,6 +97,7 @@
       {"contains": {"artist": "Fake Lighters"}},
       {"contains": {"artist": "Save the Swim Team"}},
       {"contains": {"artist": "International Overtones"}},
+      {"contains": {"artist": "Pasajeros del Malaysia Airlines"}},
       {"contains": {"artist": "Alc &amp; Band"}}
       ],
 "order": "desc",
