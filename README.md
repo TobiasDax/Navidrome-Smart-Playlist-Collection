@@ -39,3 +39,22 @@ buckets for the artists/ tracks i have not sorted into genres or rated yet.
 
 ### 01 - 06
 these spaces are kept for manual playlists, sorted by hand
+
+
+## Playlist IDs:
+| Playlist | ID |
+| --- | --- |
+| Genre - Christmas | da03f04b-44fa-4d55-a5fb-61334def0824 |
+| Genre - Deutschrap | 3cd9ea81-cb75-420c-8ab8-4e78ba51e21e |
+| Genre - Elektro | 04700bef-277e-49f5-a195-9c824187c69c |
+| Genre - Goth | a91b33fe-e901-4e48-a9b8-96989c3e54c3 |
+| Genre - Kinderlieder | a1e006ec-46b9-467f-8e3b-c5aa9ef9bd46 |
+| Genre - Metal | 677218d4-00df-4a30-9ed8-60d0900223ea |
+| Genre - Mittelalter | 593c53e4-8487-4fda-b921-1bedadbeeb32 |
+| Genre - Pop | 9d99e24d-a0ae-40b7-b749-1098473e2f93 |
+| Genre - Punk + Oi | 9512a792-5057-4649-bd36-717cf009be53 |
+| Genre - Rap | adf73c20-3c8d-428c-8e8d-f339573e0a44 |
+| Genre - Rock Deutsch | 94e0dae1-70d8-4120-942c-a5171c16ab2c |
+| Genre - Rock | e92801ac-2663-4184-9ebc-74541fc6270f |
+| Genre - Ska | 620bfa5a-67ed-416c-a39b-8c06312a37ef |
+| Genre - Stoner Rock | 23cc9858-234e-4e4a-93a2-b22c6144d3f0 |

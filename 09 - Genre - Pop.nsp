@@ -330,6 +330,7 @@
       {"contains": {"artist": "78RPM"}},
       {"contains": {"artist": "iKON"}},
       {"contains": {"artist": "ncBNQ"}},
+      {"contains": {"artist": "Yusuf"}},
       {"contains": {"artist": "pronobozo"}},
       {"contains": {"artist": "schitznachs"}},
       {"contains": {"artist": "The Delgados"}},
