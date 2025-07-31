@@ -39,6 +39,8 @@
       {"contains": {"artist": "The Business"}},
       {"contains": {"artist": "Schrappmesser"}},
       {"contains": {"artist": "ZSK"}},
+      {"contains": {"artist": "TYNA"}},
+      {"contains": {"artist": "Team Scheisse"}},
       {"contains": {"artist": "ERSATZKOPF"}},
       {"contains": {"artist": "Die Skeptiker"}},
       {"contains": {"artist": "Deutsche Laichen"}},
