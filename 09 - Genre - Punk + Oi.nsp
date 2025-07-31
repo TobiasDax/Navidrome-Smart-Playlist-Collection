@@ -14,6 +14,7 @@
       {"contains": {"album": "Tasty Punk Treats"}},
       {"contains": {"album": "Punk Chunks"}},
       {"contains": {"album": "Klänge gegen Zwänge"}},
+      {"contains": {"artist": "Turbostaat"}},
       {"contains": {"artist": "Swiss"}},
       {"contains": {"artist": "Steeltown Records"}},
       {"contains": {"artist": "Zero/Zero"}},
@@ -372,6 +373,9 @@
       {"contains": {"artist": "Revolte Springen"}},
       {"contains": {"artist": "ZooFolie"}},
       {"contains": {"artist": "V-Mann Joe"}},
+      {"contains": {"artist": "Puste Kieszenie"}},
+      {"contains": {"artist": "Rocket Beans TV"}},
+      {"contains": {"artist": "Schlackanfall"}},
       {"contains": {"artist": "Like A Riot"}},
       {"contains": {"artist": "The Overbites"}},
       {"contains": {"artist": "NoFuture"}}

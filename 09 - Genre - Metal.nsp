@@ -164,6 +164,7 @@
       {"contains": {"artist": "Koitrix"}},
       {"contains": {"artist": "Tribal Ink"}},
       {"contains": {"artist": "Kyono"}},
+      {"is": {"artist": "PAIN"}},
       {"contains": {"artist": "Mikau"}},
       {"contains": {"artist": "Attila"}},
       {"contains": {"artist": "American Head Charge"}},
