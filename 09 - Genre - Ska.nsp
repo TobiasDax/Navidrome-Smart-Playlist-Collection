@@ -94,8 +94,10 @@
       {"contains": {"artist": "Het Kingston Kwartet"}},
       {"contains": {"artist": "The Falling Dice"}},
       {"contains": {"artist": "Judge Dread"}},
+      {"contains": {"artist": "The Bumpkins Ska Club!"}},
       {"contains": {"artist": "Fake Lighters"}},
       {"contains": {"artist": "Save the Swim Team"}},
+      {"contains": {"artist": "The Coolmoods"}},
       {"contains": {"artist": "International Overtones"}},
       {"contains": {"artist": "Pasajeros del Malaysia Airlines"}},
       {"contains": {"artist": "Alc &amp; Band"}}
