@@ -1,5 +1,10 @@
 {
   "any": [
+      {
+        "inPlaylist": {
+          "id": "4b89247c-0264-45aa-a4a2-1c372e3b8860"
+        }
+      },
       {"contains": {"album": "CD Zur SLAM"}},
       {"contains": {"album": "Absolute Music"}},
       {"contains": {"album": "Pop 2000"}},
@@ -23,6 +28,9 @@
       {"contains": {"artist": "Elvis Presley"}},
       {"contains": {"artist": "ghost kollective"}},
       {"contains": {"artist": "Crywolf"}},
+      {"contains": {"artist": "Sam Cooke"}},
+      {"contains": {"artist": "The Temptations"}},
+      {"contains": {"artist": "The Kinks"}},
       {"contains": {"artist": "Agent Fresco"}},
       {"contains": {"artist": "Hans Söllner"}},
       {"contains": {"artist": "Die Cigaretten"}},
@@ -34,6 +42,7 @@
       {"contains": {"artist": "Alex Mayr"}},
       {"contains": {"artist": "Attack Attack!"}},
       {"contains": {"artist": "Dellé"}},
+      {"contains": {"artist": "The Doors"}},
       {"contains": {"artist": "The Beatles"}},
       {"contains": {"artist": "Nicolas Haelg"}},
       {"contains": {"artist": "Our Samplus"}},
@@ -47,6 +56,7 @@
       {"contains": {"artist": "Pennydreams"}},
       {"contains": {"artist": "Mamas Liebling"}},
       {"contains": {"artist": "The Cab"}},
+      {"contains": {"artist": "The Box Tops"}},
       {"contains": {"artist": "KANGOS"}},
       {"contains": {"artist": "ポルカドットスティングレイ"}},
       {"contains": {"artist": "Crayon"}},
