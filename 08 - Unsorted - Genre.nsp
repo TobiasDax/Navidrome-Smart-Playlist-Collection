@@ -72,6 +72,6 @@
     }
   ],
   "order": "desc",
-  "sort": "artist",
+  "sort": "artist,album",
   "limit": 200
 }

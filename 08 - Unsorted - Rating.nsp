@@ -7,5 +7,5 @@
     }
   ],
       "order": "desc",
-      "sort": "album"
+      "sort": "artist,album"
 }
