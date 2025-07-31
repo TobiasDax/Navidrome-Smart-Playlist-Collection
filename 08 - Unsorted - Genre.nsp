@@ -73,5 +73,5 @@
   ],
   "order": "desc",
   "sort": "artist",
-  "limit": 500
+  "limit": 200
 }
