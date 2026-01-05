@@ -12,6 +12,7 @@
       {"contains": {"artist": "The Wholls"}},
       {"contains": {"artist": "Wildways"}},
       {"contains": {"artist": "Zaprešić Boys"}},
+      {"contains": {"artist": "Evanescence"}},
       {"contains": {"artist": "Zeeco"}},
       {"contains": {"artist": "Rob Bailey"}},
       {"contains": {"artist": "MYTH &amp; ROID"}},
