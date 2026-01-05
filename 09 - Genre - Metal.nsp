@@ -1,10 +1,12 @@
 {
       "any": [
       {"contains": {"album": "Soundwave XV"}},
+      {"contains": {"album": "Got You Covered"}},
       {"contains": {"artist": "Nightwish"}},
       {"contains": {"artist": "Alive In The Dark"}},
       {"contains": {"artist": "SKÁLD"}},
       {"contains": {"artist": "Scars on Broadway"}},
+      {"contains": {"artist": "Artas"}},
       {"contains": {"artist": "Semargl"}},
       {"contains": {"artist": "Like Vultures"}},
       {"contains": {"artist": "Equilibrium"}},
@@ -148,6 +150,7 @@
       {"contains": {"artist": "Satan Takes a Holiday"}},
       {"contains": {"artist": "Sepultura"}},
       {"contains": {"artist": "Serj Tankian"}},
+      {"contains": {"artist": "Ill Nino"}},
       {"contains": {"artist": "ACxDC"}},
       {"contains": {"artist": "DevilDriver"}},
       {"contains": {"artist": "BatAAr"}},
@@ -160,6 +163,7 @@
       {"contains": {"artist": "Suicide Club"}},
       {"contains": {"artist": "Thousand Foot Krutch"}},
       {"contains": {"artist": "Drowning Pool"}},
+      {"contains": {"artist": "Amon Amarth"}},
       {"contains": {"artist": "Godsmack"}},
       {"contains": {"artist": "Koitrix"}},
       {"contains": {"artist": "Tribal Ink"}},

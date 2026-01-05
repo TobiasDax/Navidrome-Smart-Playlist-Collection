@@ -6,6 +6,7 @@
     {"contains": {"artist": "Heavysaurus"}},
     {"contains": {"artist": "Randale"}},
     {"contains": {"artist": "Kai Lüftner"}},
+    {"contains": {"artist": "Eric Carle"}},
     {"contains": {"artist": "Deine Freunde"}}   
   ],
   "sort": "artist"

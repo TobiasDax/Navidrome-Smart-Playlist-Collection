@@ -2,28 +2,34 @@
   "any": [
       {
         "inPlaylist": {
-          "id": "4b89247c-0264-45aa-a4a2-1c372e3b8860"
+          "id": "JfBCqu9IpTEbJH3sgoM01W"
         }
       },
+      {"contains": {"album": "Songs The Cramps Taught Us"}},
       {"contains": {"album": "CD Zur SLAM"}},
       {"contains": {"album": "Absolute Music"}},
       {"contains": {"album": "Pop 2000"}},
       {"contains": {"artist": "VAN HOLZEN"}},
+      {"is": {"artist": "America"}},
       {"contains": {"artist": "Angel Haze"}},
       {"contains": {"artist": "Steffi Bella"}},
       {"contains": {"artist": "SWEATER POP"}},
       {"contains": {"artist": "Tequila and the Sunrise Gang"}},
+      {"contains": {"artist": "Bill Ryder-Jones"}},
       {"contains": {"artist": "Rozen"}},
       {"contains": {"artist": "Tilly and the Wall"}},
       {"contains": {"artist": "Tonbandgerät"}},
       {"contains": {"artist": "태양"}},
       {"contains": {"artist": "승리"}},
       {"contains": {"artist": "Shania Twain"}},
+      {"contains": {"artist": "Acaedia"}},
       {"contains": {"artist": "Salt City Orchestra"}},
       {"contains": {"artist": "Peter Bence"}},
+      {"contains": {"artist": "3OH!3"}},
       {"contains": {"artist": "Nanpa Básico"}},
       {"contains": {"artist": "Lexy &amp; K‐Paul"}},
       {"contains": {"artist": "Jay Kill"}},
+      {"contains": {"artist": "Lindsay Stirling"}},
       {"contains": {"artist": "Nina Chuba"}},
       {"contains": {"artist": "I’m Not a Band"}},
       {"contains": {"artist": "Elvis Presley"}},

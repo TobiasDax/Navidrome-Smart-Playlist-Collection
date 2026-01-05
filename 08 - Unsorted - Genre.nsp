@@ -66,8 +66,8 @@
       }
     },
     {
-      "inPlaylist": {
-        "id": "4b89247c-0264-45aa-a4a2-1c372e3b8860"
+      "notInPlaylist": {
+        "id": "JfBCqu9IpTEbJH3sgoM01W"
       }
     },
     {
@@ -76,7 +76,6 @@
       }
     }
   ],
-  "order": "desc",
-  "sort": "artist,album",
+  "sort": "+artist,+album",
   "limit": 200
 }
