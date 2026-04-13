@@ -17,6 +17,7 @@
       {"contains": {"artist": "Murs"}},
       {"contains": {"artist": "LIONAIRE"}},
       {"contains": {"artist": "78RPM"}},
+      {"contains": {"artist": "Babydrill"}},
       {"contains": {"artist": "Gorilla Voltage &amp; Jamie Madrox"}},
       {"contains": {"artist": "The Hit Crew"}},
       {"contains": {"artist": "Matt Easton"}},
