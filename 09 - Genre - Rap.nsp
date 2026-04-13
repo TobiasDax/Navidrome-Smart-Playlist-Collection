@@ -77,6 +77,7 @@
       {"contains": {"artist": "Cunninlynguists"}},
       {"contains": {"artist": "DCCM"}},
       {"contains": {"artist": "DMX"}},
+      {"contains": {"artist": "Gunna"}},
       {"contains": {"artist": "Damien"}},
       {"contains": {"artist": "Dan Bull"}},
       {"contains": {"artist": "Dan Bull und Machinae Supremacy"}},

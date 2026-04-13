@@ -11,6 +11,7 @@
       {"contains": {"artist": "Twopointeight"}},
       {"contains": {"artist": "The Wholls"}},
       {"contains": {"artist": "Wildways"}},
+      {"contains": {"artist": "D'Angerous"}},
       {"contains": {"artist": "Zaprešić Boys"}},
       {"contains": {"artist": "Evanescence"}},
       {"contains": {"artist": "Zeeco"}},

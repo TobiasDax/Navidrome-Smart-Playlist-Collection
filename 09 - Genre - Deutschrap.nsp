@@ -18,6 +18,7 @@
       {"contains": {"artist": "Damaged Bug"}},
       {"contains": {"artist": "Pimpulsiv"}},
       {"contains": {"artist": "Dendemann"}},
+      {"is": {"artist": "Marlo"}},
       {"contains": {"artist": "DNP"}},
       {"contains": {"artist": "Ronnie Flex"}},
       {"contains": {"artist": "Lil’ Kleine"}},
