@@ -58,3 +58,6 @@ these spaces are kept for manual playlists, sorted by hand
 | Genre - Rock | e92801ac-2663-4184-9ebc-74541fc6270f |
 | Genre - Ska | 620bfa5a-67ed-416c-a39b-8c06312a37ef |
 | Genre - Stoner Rock | 23cc9858-234e-4e4a-93a2-b22c6144d3f0 |
+
+
+This Repo is now hosted on Forgejo and mirrored to Github
