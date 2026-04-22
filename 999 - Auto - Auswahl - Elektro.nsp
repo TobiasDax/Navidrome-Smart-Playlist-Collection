@@ -3,5 +3,5 @@
     { "inPlaylist": { "id": "r0gGxPHggCDdKoa32SXJtx" } },
     { "inPlaylist": { "id": "y4ayzlwvHidduBM6ZrAPbm" } }
   ],
-  "sort": "random"
+  "sort": "+random"
 }

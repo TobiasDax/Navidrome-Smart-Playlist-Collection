@@ -7,10 +7,10 @@
     },
     {
       "is": {
-        "rating": "3"
+        "rating": 3
       }
     }
   ],
-  "sort": "random",
+  "sort": "+random",
   "limit": 50
 }

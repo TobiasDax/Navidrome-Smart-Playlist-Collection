@@ -16,6 +16,6 @@
       }
     }
   ],
-  "sort": "random",
+  "sort": "+random",
   "limit": 40
 }
