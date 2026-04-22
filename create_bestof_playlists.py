@@ -172,10 +172,11 @@ def create_playlist(nd_base, auth, name):
 
 
 def get_playlist_tracks(nd_base, auth, playlist_id):
+    """Returns a set of (normalize(title), normalize(artist)) for deduplication."""
     url = nd_url_builder(nd_base, "getPlaylist", auth, id=playlist_id)
     data = get(url)
     songs = data.get("subsonic-response", {}).get("playlist", {}).get("entry", [])
-    return {s["id"] for s in songs}
+    return {(normalize(s.get("title", "")), normalize(s.get("artist", ""))) for s in songs}
 
 
 def add_songs_to_playlist(nd_base, auth, playlist_id, song_ids):
@@ -213,7 +214,9 @@ def main():
         tracks = data.get("list", [])[:TOP_N]
         print(f"  Got {len(tracks)} tracks from Maloja")
 
-        found_ids = []
+        # found_items: list of (song_id, (norm_title, norm_artist)) — keeps id and key together
+        found_items = []
+        seen_keys = set()  # deduplicate within this year's results
         missing = []
 
         for entry in tracks:
@@ -228,23 +231,29 @@ def main():
 
             song = find_in_navidrome(nd_base, auth, title, artists)
             if song:
-                found_ids.append(song["id"])
-                print(f"-> found (id={song['id']})")
+                key = (normalize(song.get("title", "")), normalize(song.get("artist", "")))
+                if key in seen_keys:
+                    print("-> duplicate, skipped")
+                else:
+                    seen_keys.add(key)
+                    found_items.append((song["id"], key))
+                    print(f"-> found (id={song['id']})")
             else:
                 missing.append({"rank": rank, "artists": artists, "title": title, "scrobbles": scrobbles})
                 print("-> MISSING")
 
         if playlist_name in existing:
             pid = existing[playlist_name]
-            current_ids = get_playlist_tracks(nd_base, auth, pid)
-            new_ids = [sid for sid in found_ids if sid not in current_ids]
+            current_keys = get_playlist_tracks(nd_base, auth, pid)
+            new_ids = [sid for sid, key in found_items if key not in current_keys]
             if new_ids:
                 print(f"\n  Updating '{playlist_name}': adding {len(new_ids)} new track(s)...")
                 add_songs_to_playlist(nd_base, auth, pid, new_ids)
                 print(f"  Done.")
             else:
                 print(f"\n  '{playlist_name}' is already up to date.")
-        elif found_ids:
+        elif found_items:
+            found_ids = [sid for sid, _ in found_items]
             print(f"\n  Creating playlist '{playlist_name}' with {len(found_ids)} tracks...")
             pid = create_playlist(nd_base, auth, playlist_name)
             if pid:
