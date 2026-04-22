@@ -1,3 +1,4 @@
 .claude/
 missing_tracks_*.md
 .env
+__pycache__/
