@@ -18,6 +18,40 @@ YEARS = [2007, 2010, 2011, 2013, 2014, 2015, 2017, 2018, 2019, 2020, 2021, 2022,
 
 
 def prompt_config():
+    """
+    Reads config from environment variables if set, otherwise prompts interactively.
+
+    Environment variables:
+      MALOJA_URL        Maloja base URL (default: http://localhost:42010)
+      NAVIDROME_URL     Navidrome base URL (default: http://localhost:4533)
+      NAVIDROME_USER    Navidrome username
+      NAVIDROME_PASS    Navidrome password
+      BESTOF_YEARS      Comma-separated years to process (default: all missing years)
+    """
+    import os
+
+    env_maloja = os.environ.get("MALOJA_URL")
+    env_nd_url = os.environ.get("NAVIDROME_URL")
+    env_nd_user = os.environ.get("NAVIDROME_USER")
+    env_nd_pass = os.environ.get("NAVIDROME_PASS")
+    env_years = os.environ.get("BESTOF_YEARS")
+
+    if all([env_maloja, env_nd_url, env_nd_user, env_nd_pass]):
+        maloja_url = env_maloja.rstrip("/")
+        nd_url = env_nd_url.rstrip("/")
+        nd_user = env_nd_user
+        nd_pass = env_nd_pass
+        if env_years:
+            try:
+                years = [int(y.strip()) for y in env_years.split(",")]
+            except ValueError:
+                years = YEARS
+        else:
+            years = YEARS
+        print(f"=== Best of Year Playlist Creator ===")
+        print(f"Using environment variables (Maloja: {maloja_url}, Navidrome: {nd_url})\n")
+        return maloja_url, nd_url, nd_user, nd_pass, years
+
     print("=== Best of Year Playlist Creator ===")
     print("Enter connection details (press Enter to accept defaults):\n")
 
@@ -121,6 +155,13 @@ def create_playlist(nd_base, auth, name):
     return data.get("subsonic-response", {}).get("playlist", {}).get("id")
 
 
+def get_playlist_tracks(nd_base, auth, playlist_id):
+    url = nd_url_builder(nd_base, "getPlaylist", auth, id=playlist_id)
+    data = get(url)
+    songs = data.get("subsonic-response", {}).get("playlist", {}).get("entry", [])
+    return {s["id"] for s in songs}
+
+
 def add_songs_to_playlist(nd_base, auth, playlist_id, song_ids):
     base = f"{nd_base}/rest/updatePlaylist?"
     params = urllib.parse.urlencode(auth)
@@ -178,7 +219,15 @@ def main():
                 print("-> MISSING")
 
         if playlist_name in existing:
-            print(f"\n  Playlist '{playlist_name}' already exists, skipping creation.")
+            pid = existing[playlist_name]
+            current_ids = get_playlist_tracks(nd_base, auth, pid)
+            new_ids = [sid for sid in found_ids if sid not in current_ids]
+            if new_ids:
+                print(f"\n  Updating '{playlist_name}': adding {len(new_ids)} new track(s)...")
+                add_songs_to_playlist(nd_base, auth, pid, new_ids)
+                print(f"  Done.")
+            else:
+                print(f"\n  '{playlist_name}' is already up to date.")
         elif found_ids:
             print(f"\n  Creating playlist '{playlist_name}' with {len(found_ids)} tracks...")
             pid = create_playlist(nd_base, auth, playlist_name)
