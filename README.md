@@ -88,4 +88,26 @@ these spaces are kept for manual playlists, sorted by hand
 | Auto - Sort - Ska - 4+ | ZNFuyJhpp4nLWzSqojDtFi |
 
 
+## Scripts
+
+### create_bestof_playlists.py
+
+Creates `04 - Best of - YEAR` playlists in Navidrome by pulling your top 50 most-scrobbled tracks per year from a [Maloja](https://github.com/krateng/maloja) instance.
+
+**How it works:**
+1. Prompts for your Maloja URL, Navidrome URL, credentials, and which years to process (defaults to a predefined list).
+2. Queries the Maloja API for the top 50 tracks of each year.
+3. Searches Navidrome for each track using fuzzy title and artist matching (≥80% similarity threshold).
+4. Creates a playlist named `04 - Best of - YEAR` and adds all matched tracks. Skips years where the playlist already exists.
+5. Writes a `missing_tracks_YYYYMMDD.md` report listing any tracks from the Maloja charts that could not be found in your Navidrome library.
+
+**Requirements:** Python 3 (no external dependencies). Both Maloja and Navidrome must be reachable at the URLs you provide.
+
+**Run:**
+```bash
+python create_bestof_playlists.py
+```
+
+---
+
 This Repo is now hosted on Forgejo and mirrored to Github
