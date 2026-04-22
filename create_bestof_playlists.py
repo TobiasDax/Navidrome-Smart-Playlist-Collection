@@ -17,17 +17,33 @@ TOP_N = 50
 YEARS = [2007, 2010, 2011, 2013, 2014, 2015, 2017, 2018, 2019, 2020, 2021, 2022, 2024]
 
 
+def load_dotenv():
+    """Load .env from the script's directory into os.environ (does not override existing vars)."""
+    import os
+    env_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".env")
+    if not os.path.exists(env_path):
+        return
+    with open(env_path, encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            key, _, value = line.partition("=")
+            os.environ.setdefault(key.strip(), value.strip())
+
+
 def prompt_config():
     """
-    Reads config from environment variables if set, otherwise prompts interactively.
+    Reads config from .env file or environment variables, otherwise prompts interactively.
 
-    Environment variables:
+    .env / environment variables:
       MALOJA_URL        Maloja base URL (default: http://localhost:42010)
       NAVIDROME_URL     Navidrome base URL (default: http://localhost:4533)
       NAVIDROME_USER    Navidrome username
       NAVIDROME_PASS    Navidrome password
       BESTOF_YEARS      Comma-separated years to process (default: all missing years)
     """
+    load_dotenv()
     import os
 
     env_maloja = os.environ.get("MALOJA_URL")
