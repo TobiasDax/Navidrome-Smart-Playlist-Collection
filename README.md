@@ -34,6 +34,10 @@ Two playlists per 09 Genre Playlist to provide a weight based approach to genres
 ### 07 - Genre Selections
 these playlist combine the two 99 Sort Playlists per gebre to give a nice, enjoyable way to focus on one music genre.
 
+### 999 - Auto (Car Playlists)
+Per-genre playlists optimized for the car. 400 songs each with a strong bias toward 4/5 star tracks (300 from 4+ stars, 100 from 3 stars). Excludes Mittelalter, Stoner Rock, Christmas and Kinderlieder.  
+Two intermediate Sort playlists per genre (999 - Auto - Sort) feed into a combined Auswahl playlist (999 - Auto - Auswahl).
+
 ### 08 - Unsorted
 buckets for the artists/ tracks i have not sorted into genres or rated yet.
 
@@ -54,10 +58,34 @@ these spaces are kept for manual playlists, sorted by hand
 | Genre - Pop | 9d99e24d-a0ae-40b7-b749-1098473e2f93 |
 | Genre - Punk + Oi | 9512a792-5057-4649-bd36-717cf009be53 |
 | Genre - Rap | adf73c20-3c8d-428c-8e8d-f339573e0a44 |
-| Genre - Rock Deutsch | 94e0dae1-70d8-4120-942c-a5171c16ab2c |
-| Genre - Rock | e92801ac-2663-4184-9ebc-74541fc6270f |
+| Genre - Rock Deutsch | e92801ac-2663-4184-9ebc-74541fc6270f |
+| Genre - Rock | 94e0dae1-70d8-4120-942c-a5171c16ab2c |
 | Genre - Ska | 620bfa5a-67ed-416c-a39b-8c06312a37ef |
 | Genre - Stoner Rock | 23cc9858-234e-4e4a-93a2-b22c6144d3f0 |
+
+### 999 - Auto - Sort IDs
+| Playlist | ID |
+| --- | --- |
+| Auto - Sort - Deutschrap - 3 | wWJSzentnO2I822Sb7VIRd |
+| Auto - Sort - Deutschrap - 4+ | uhtB8qhkpz99Uasusthyvf |
+| Auto - Sort - Elektro - 3 | r0gGxPHggCDdKoa32SXJtx |
+| Auto - Sort - Elektro - 4+ | y4ayzlwvHidduBM6ZrAPbm |
+| Auto - Sort - Goth - 3 | i4K9JzIjqcqophLm3k7rUX |
+| Auto - Sort - Goth - 4+ | p8JJigqfUBbA82V4TeeO7u |
+| Auto - Sort - Metal - 3 | 18mlip5qHzgMG3GS5pJfah |
+| Auto - Sort - Metal - 4+ | TUFI1d6N4jkx7y78ZzEY6n |
+| Auto - Sort - Pop - 3 | POP0W3jSLakXznUtnNNYu1 |
+| Auto - Sort - Pop - 4+ | FICkaPKwlD9SxTjs53Ertw |
+| Auto - Sort - Punk + Oi - 3 | R4W1YaLv09D10pYDnmAz69 |
+| Auto - Sort - Punk + Oi - 4+ | LGhkBuNypHCuWx1o2wlh4s |
+| Auto - Sort - Rap - 3 | EfDEIwm9fBy0L7Q1977gM5 |
+| Auto - Sort - Rap - 4+ | 8bNv6nC8V6aPTihifUdDgV |
+| Auto - Sort - Rock - 3 | lfX36gwVs9tK21rw3Loepi |
+| Auto - Sort - Rock - 4+ | RisqHS4QqH9piqKNMxskYO |
+| Auto - Sort - Rock Deutsch - 3 | 3cHOUIbHhlPQvgI3jRt4Lh |
+| Auto - Sort - Rock Deutsch - 4+ | 6ORmRvMOAlQ1a3XkbPaiiU |
+| Auto - Sort - Ska - 3 | ftD1SRO3luwlk7EXpWltY0 |
+| Auto - Sort - Ska - 4+ | ZNFuyJhpp4nLWzSqojDtFi |
 
 
 This Repo is now hosted on Forgejo and mirrored to Github
