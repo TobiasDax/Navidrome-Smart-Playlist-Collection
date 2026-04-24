@@ -5,6 +5,7 @@
     {"contains": {"artist": "HerrH"}},
     {"contains": {"artist": "Heavysaurus"}},
     {"contains": {"artist": "Randale"}},
+    {"contains": {"artist": "Was ist Was"}},
     {"contains": {"artist": "Kai Lüftner"}},
     {"contains": {"artist": "Eric Carle"}},
     {"contains": {"artist": "Deine Freunde"}}   

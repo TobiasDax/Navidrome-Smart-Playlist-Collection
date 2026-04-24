@@ -5,6 +5,7 @@
       {"contains": {"artist": "Schandmaul"}},
       {"contains": {"artist": "Subway to Sally"}},
       {"contains": {"artist": "Coppelius"}},
+      {"contains": {"artist": "Rabenschrey"}},
       {"contains": {"artist": "Schelmish"}},
       {"contains": {"artist": "J.B.O."}},
       {"contains": {"artist": "Feuerschwanz"}},

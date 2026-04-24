@@ -1,5 +1,7 @@
 {
   "any": [
+      {"contains": {"album": "Gabba Gabba Bong."}},
+      {"contains": {"album": "Electric Ladyland."}},
       {"contains": {"artist": "Samsara Blues Experiment"}},
       {"contains": {"artist": "RaksMcFrost"}},
       {"contains": {"artist": "Queens of the Stone Age"}},
