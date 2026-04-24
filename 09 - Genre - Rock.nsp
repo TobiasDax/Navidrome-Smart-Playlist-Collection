@@ -256,6 +256,7 @@
       {"contains": {"artist": "Grace Mitchell"}},
       {"contains": {"artist": "Gran Noir"}},
       {"contains": {"artist": "Grzegorz"}},
+      {"contains": {"artist": "Stuart Edge"}},
       {"contains": {"artist": "Weezer"}},
       {"contains": {"artist": "The Smith Street Band"}},
       {"contains": {"artist": "Happy Ol'McWeasel"}},
