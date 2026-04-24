@@ -11,6 +11,7 @@
       {"contains": {"artist": "Ost+Front"}},
       {"contains": {"artist": "Oomph!"}},
       {"contains": {"artist": "Nemesea"}},
+      {"contains": {"artist": "Zombierella"}},
       {"contains": {"artist": "Sopor Aeternus"}},
       {"contains": {"artist": "Luna Luna"}},
       {"contains": {"artist": "Lord Of The Lost"}},
