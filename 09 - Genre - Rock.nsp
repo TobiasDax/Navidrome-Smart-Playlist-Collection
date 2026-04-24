@@ -257,6 +257,7 @@
       {"contains": {"artist": "Gran Noir"}},
       {"contains": {"artist": "Grzegorz"}},
       {"contains": {"artist": "Weezer"}},
+      {"contains": {"artist": "The Smith Street Band"}},
       {"contains": {"artist": "Happy Ol'McWeasel"}},
       {"contains": {"artist": "Harte Worte"}},
       {"contains": {"artist": "HeavyStonerDoomBlues"}},

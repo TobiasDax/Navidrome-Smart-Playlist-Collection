@@ -33,7 +33,7 @@
       {"contains": {"artist": "Ira May"}},
       {"contains": {"artist": "Shuko"}},
       {"is": {"artist": "Brother Ali"}},
-      {"is": {"artist": "Nunjabes"}},
+      {"is": {"artist": "Nujabes"}},
       {"contains": {"artist": "Cypress Hill"}},
       {"contains": {"artist": "KRS-One"}},
       {"contains": {"artist": "AJlu kz"}},
