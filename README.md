@@ -51,6 +51,7 @@ these spaces are kept for manual playlists, sorted by hand
 | Genre - Christmas | da03f04b-44fa-4d55-a5fb-61334def0824 |
 | Genre - Deutschrap | 3cd9ea81-cb75-420c-8ab8-4e78ba51e21e |
 | Genre - Elektro | 04700bef-277e-49f5-a195-9c824187c69c |
+| Genre - Folk Rock | 79q2GPzRrdDVPqfDhd6T9Q |
 | Genre - Goth | a91b33fe-e901-4e48-a9b8-96989c3e54c3 |
 | Genre - Kinderlieder | a1e006ec-46b9-467f-8e3b-c5aa9ef9bd46 |
 | Genre - Metal | 677218d4-00df-4a30-9ed8-60d0900223ea |
