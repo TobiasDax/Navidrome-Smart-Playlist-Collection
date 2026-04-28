@@ -40,6 +40,7 @@
       {"contains": {"artist": "Ska-P"}},
       {"contains": {"artist": "SR-71"}},
       {"contains": {"artist": "GOGO13"}},
+      {"contains": {"artist": "Tequila & The Sunrise Gang"}},
       {"contains": {"artist": "Rude Pride"}},
       {"contains": {"artist": "Illbilly Hitec"}},
       {"contains": {"artist": "Rebelution"}},

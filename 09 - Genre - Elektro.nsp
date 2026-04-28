@@ -2,6 +2,7 @@
   "any": [
       {"contains": {"album": "Elektroanschlag"}},
       {"contains": {"album": "Wankelmoods"}},
+      {"is": {"album": "Hands on Scooter"}},
       {"contains": {"album": "Future Frequencies"}},
       {"is": {"artist": "Exx"}},
       {"contains": {"artist": "AKA AKA, Thalstroem"}},

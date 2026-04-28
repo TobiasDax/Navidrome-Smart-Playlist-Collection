@@ -21,6 +21,7 @@
       {"contains": {"artist": "Dendemann"}},
       {"is": {"artist": "Marlo"}},
       {"contains": {"artist": "DNP"}},
+      {"contains": {"artist": "Die Orsons"}},
       {"contains": {"artist": "Ronnie Flex"}},
       {"contains": {"artist": "Lil’ Kleine"}},
       {"contains": {"artist": "Die toten Crackhuren im Kofferraum"}},

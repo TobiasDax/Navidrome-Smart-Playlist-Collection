@@ -4,6 +4,7 @@
       {"contains": {"artist": "X-RX"}},
       {"contains": {"artist": "E Nomine"}},
       {"contains": {"artist": "Welle: Erdball"}},
+      {"contains": {"artist": "Welle Erdball"}},
       {"contains": {"artist": "Tanzwut"}},
       {"contains": {"artist": "Santiano"}},
       {"contains": {"artist": "Samsas Traum"}},

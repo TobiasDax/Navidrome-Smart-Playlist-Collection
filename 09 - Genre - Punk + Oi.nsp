@@ -26,6 +26,7 @@
       {"contains": {"artist": "Skumdum"}},
       {"contains": {"artist": "Engst"}},
       {"contains": {"artist": "Bums"}},
+      {"contains": {"artist": "Son Goku"}},
       {"contains": {"artist": "Lion’s Law"}},
       {"contains": {"artist": "Chewing On Tinfoil"}},
       {"contains": {"artist": "Happy Ol’ McWeasel"}},

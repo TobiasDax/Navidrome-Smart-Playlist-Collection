@@ -1,6 +1,7 @@
 {
   "any": [
       {"contains": {"artist": "Fiddler's Green"}},
+      {"contains": {"artist": "Market Day"}},
       {"contains": {"artist": "Flatfoot 56"}},
       {"contains": {"artist": "Flogging Molly"}}
 ],
