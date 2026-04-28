@@ -6,6 +6,7 @@
       {"contains": {"album": "Street Voices"}},
       {"contains": {"album": "Schlachtrufe BRD"}},
       {"contains": {"album": "Schlackrufe"}},
+      {"contains": {"album": "Chaos, Bier & Anarchie"}},
       {"contains": {"album": "ZOFF."}},
       {"contains": {"album": "Swenglish"}},
       {"contains": {"album": "Punk Rock BRD"}},

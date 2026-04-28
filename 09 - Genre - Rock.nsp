@@ -29,6 +29,7 @@
       {"contains": {"artist": "The Black Pacific"}},
       {"contains": {"artist": "Chuck Berry"}},
       {"contains": {"artist": "Blowsight"}},
+      {"contains": {"artist": "M3TH HŒRSE"}},
       {"contains": {"artist": "Editors"}},
       {"contains": {"artist": "Wathlinger"}},
       {"contains": {"artist": "TODO"}},

@@ -1,0 +1,9 @@
+{
+  "any": [
+      {"contains": {"artist": "Fiddler's Green"}},
+      {"contains": {"artist": "Flatfoot 56"}},
+      {"contains": {"artist": "Flogging Molly"}}
+],
+"order": "desc",
+"sort": "artist"
+}

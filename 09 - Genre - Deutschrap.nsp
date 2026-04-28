@@ -15,6 +15,7 @@
       {"contains": {"artist": "Blokk"}},
       {"contains": {"artist": "Bluthund"}},
       {"contains": {"artist": "Kummer"}},
+      {"contains": {"artist": "MoTrip"}},
       {"contains": {"artist": "Damaged Bug"}},
       {"contains": {"artist": "Pimpulsiv"}},
       {"contains": {"artist": "Dendemann"}},

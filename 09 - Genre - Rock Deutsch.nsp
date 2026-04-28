@@ -4,6 +4,7 @@
       {"contains": {"artist": "Simson Gang"}},
       {"contains": {"artist": "Rammstein"}},
       {"contains": {"artist": "Kontrust"}},
+      {"contains": {"artist": "KAPULET"}},
       {"contains": {"artist": "Jennifer Rostock"}},
       {"contains": {"artist": "H\u00E4matom"}},
       {"contains": {"artist": "Herzlos"}},
