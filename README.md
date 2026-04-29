@@ -41,7 +41,10 @@ Two intermediate Sort playlists per genre (999 - Auto - Sort) feed into a combin
 ### 08 - Unsorted
 buckets for the artists/ tracks i have not sorted into genres or rated yet.
 
-### 01 - 06
+### 01 - Discovery Playlists
+smart playlists for surfacing music — recently added, recently played, never played, rarely played, etc.
+
+### 02 - 06
 these spaces are kept for manual playlists, sorted by hand
 
 

@@ -20,7 +20,8 @@ Playlists are numbered to establish a dependency order — lower numbers depend 
 | `999 - Auto - Auswahl - *` | Combines the two Auto Sort playlists per genre. 400 tracks total. |
 | `00 - Dax - *` | Top-level personal playlists built from Weight buckets. Synced offline to phone. |
 | `08 - Unsorted - *` | Catch-all for tracks not yet assigned to any Genre playlist or rated. |
-| `01–06` | Reserved for manually curated playlists. |
+| `01` | Discovery/surfacing playlists — recently added, recently played, never played, rarely played, etc. |
+| `02–06` | Reserved for manually curated playlists. |
 
 ## Key constraints when editing
 
