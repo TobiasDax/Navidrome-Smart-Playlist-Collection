@@ -1,0 +1,4 @@
+{
+  "all": [{ "gt": { "playcount": 0 } }, { "lt": { "playcount": 4 } }],
+  "sort": "+random"
+}

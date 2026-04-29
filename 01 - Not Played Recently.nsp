@@ -1,0 +1,7 @@
+{
+  "all": [
+    {"gt": {"playcount": 0}},
+    {"notInTheLast": {"lastPlayed": "180"}}
+  ],
+  "sort": "+random"
+}

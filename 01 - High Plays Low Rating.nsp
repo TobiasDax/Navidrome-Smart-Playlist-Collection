@@ -1,0 +1,7 @@
+{
+  "all": [
+    {"gt": {"playcount": 10}},
+    {"lt": {"rating": 3}}
+  ],
+  "sort": "+random"
+}
