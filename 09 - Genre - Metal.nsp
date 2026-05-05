@@ -2,6 +2,8 @@
       "any": [
       {"contains": {"album": "Soundwave XV"}},
       {"contains": {"album": "Got You Covered"}},
+      {"contains": {"album": "Rock vs. Rap"}},
+      {"contains": {"album": "90s in Metal"}},
       {"contains": {"artist": "Nightwish"}},
       {"contains": {"artist": "Alive In The Dark"}},
       {"contains": {"artist": "SKÁLD"}},
