@@ -10,6 +10,7 @@
     {"is": {"album": "Socks"}},
     {"contains": {"album": "Christmasaurus"}},
     {"contains": {"album": "Christmas"}},
+    {"contains": {"album": "Seven Holy Nights"}},
     {"contains": {"album": "Switched on Santa"}},
     {"contains": {"album": "Silver & Gold"}},
     {"contains": {"album": "XMAS"}},
@@ -24,6 +25,6 @@
     {"contains": {"album": "It's A Holiday Soul Party"}},
     {"contains": {"album": "MERRY CHRISTMASS"}},
     {"contains": {"album": "White Christmas Blue"}},
-    {"contains": {"album": "Christmas"}} 
+    {"contains": {"album": "Christmas"}}
   ]
 }
