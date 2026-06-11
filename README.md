@@ -35,8 +35,9 @@ Two playlists per 09 Genre Playlist to provide a weight based approach to genres
 these playlist combine the two 99 Sort Playlists per gebre to give a nice, enjoyable way to focus on one music genre.
 
 ### 999 - Auto (Car Playlists)
-Per-genre playlists optimized for the car. 400 songs each with a strong bias toward 4/5 star tracks (300 from 4+ stars, 100 from 3 stars). Excludes Mittelalter, Stoner Rock, Christmas and Kinderlieder.  
-Two intermediate Sort playlists per genre (999 - Auto - Sort) feed into a combined Auswahl playlist (999 - Auto - Auswahl).
+Per-genre playlists optimized for the car. 700 songs each, split evenly between 4-star and 5-star tracks (350 each). Excludes Mittelalter, Stoner Rock, Christmas and Kinderlieder.  
+Two intermediate Sort playlists per genre (999 - Auto - Sort) feed into a combined Auswahl playlist (999 - Auto - Auswahl).  
+Note: the Sort playlists are still named `- 3` and `- 4+` but now contain 4-star and 5-star tracks respectively — names were kept to avoid breaking the Auswahl IDs.
 
 ### 08 - Unsorted
 buckets for the artists/ tracks i have not sorted into genres or rated yet.

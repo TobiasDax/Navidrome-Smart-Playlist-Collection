@@ -1,8 +1,8 @@
 {
   "all": [
     { "inPlaylist": { "id": "620bfa5a-67ed-416c-a39b-8c06312a37ef" } },
-    { "gt": { "rating": 3 } }
+    { "is": { "rating": 5 } }
   ],
   "sort": "+random",
-  "limit": 300
+  "limit": 350
 }
