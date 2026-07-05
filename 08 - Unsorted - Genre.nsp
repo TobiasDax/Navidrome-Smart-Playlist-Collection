@@ -81,6 +81,6 @@
       }
     }
   ],
-  "sort": "+artist,+album",
+  "sort": "+artist",
   "limit": 200
 }
