@@ -474,7 +474,8 @@
       {"contains": {"artist": "Rain Sounds"}},
       {"contains": {"artist": "The Who"}},
       {"contains": {"artist": "The Animals"}},
-      {"contains": {"artist": "Gnackwatschn"}}
+      {"contains": {"artist": "Gnackwatschn"}},
+      {"contains": {"artist": "The B‐52’s"}}
       ],
 "order": "desc",
 "sort": "artist"
