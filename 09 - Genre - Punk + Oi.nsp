@@ -101,7 +101,7 @@
       {"contains": {"artist": "Terrorzelle"}},
       {"contains": {"artist": "Bei Bedarf"}},
       {"contains": {"artist": "Briefbombe"}},
-      {"contains": {"is": "Bitter"}},
+      {"contains": {"artist": "Bitter"}},
       {"contains": {"artist": "Bijou Igitt"}},
       {"contains": {"artist": "Knock Out"}},
       {"contains": {"artist": "Dimple Minds"}},
