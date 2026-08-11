@@ -8,7 +8,9 @@
     {"contains": {"artist": "Was ist Was"}},
     {"contains": {"artist": "Kai Lüftner"}},
     {"contains": {"artist": "Eric Carle"}},
-    {"contains": {"artist": "Deine Freunde"}}   
+    {"contains": {"artist": "Peter Maffay"}},
+    {"contains": {"artist": "TonieBox"}},
+    {"contains": {"artist": "Deine Freunde"}}
   ],
   "sort": "artist"
 }
