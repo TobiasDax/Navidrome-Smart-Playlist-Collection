@@ -52,45 +52,45 @@ these spaces are kept for manual playlists, sorted by hand
 ## Playlist IDs:
 | Playlist | ID |
 | --- | --- |
-| Genre - Christmas | da03f04b-44fa-4d55-a5fb-61334def0824 |
-| Genre - Deutschrap | 3cd9ea81-cb75-420c-8ab8-4e78ba51e21e |
-| Genre - Elektro | 04700bef-277e-49f5-a195-9c824187c69c |
+| Genre - Christmas | 6Do7T9m7RAlctUN3nAEgv2 |
+| Genre - Deutschrap | 1QP7UdMhNAP9jFRjCi9qdU |
+| Genre - Elektro | 08naPL7vVy9eVpA8J6LTLm |
 | Genre - Folk Rock | 79q2GPzRrdDVPqfDhd6T9Q |
-| Genre - Goth | a91b33fe-e901-4e48-a9b8-96989c3e54c3 |
-| Genre - Kinderlieder | a1e006ec-46b9-467f-8e3b-c5aa9ef9bd46 |
-| Genre - Metal | 677218d4-00df-4a30-9ed8-60d0900223ea |
-| Genre - Mittelalter | 593c53e4-8487-4fda-b921-1bedadbeeb32 |
-| Genre - Pop | 9d99e24d-a0ae-40b7-b749-1098473e2f93 |
-| Genre - Punk + Oi | 9512a792-5057-4649-bd36-717cf009be53 |
-| Genre - Rap | adf73c20-3c8d-428c-8e8d-f339573e0a44 |
-| Genre - Rock Deutsch | e92801ac-2663-4184-9ebc-74541fc6270f |
-| Genre - Rock | 94e0dae1-70d8-4120-942c-a5171c16ab2c |
-| Genre - Ska | 620bfa5a-67ed-416c-a39b-8c06312a37ef |
-| Genre - Stoner Rock | 23cc9858-234e-4e4a-93a2-b22c6144d3f0 |
+| Genre - Goth | 5968nnVH5ye7nzgEqiFRqb |
+| Genre - Kinderlieder | 4Vs90uzj1f7FEgU4JU5NMG |
+| Genre - Metal | 39clPEBjy7WJEzfBnFYjxg |
+| Genre - Mittelalter | 2InSZoIFDRLuByu21Imcn0 |
+| Genre - Pop | 4No7thjnYdjV9iWjNiM9tF |
+| Genre - Punk + Oi | 4xinFYb6w6EdFcy14HI5BV |
+| Genre - Rap | 5igES2gkjZqqSKGQGLwXnm |
+| Genre - Rock Deutsch | 75XuHDT3owurqU1AUgPMPd |
+| Genre - Rock | 4wVCEpOhY9UhkizwCKzvty |
+| Genre - Ska | 2Z0ILhVo1Huk8pc7YsbyEf |
+| Genre - Stoner Rock | 15yemw4ma7FjsqyP2Aa9dS |
 
 ### 999 - Auto - Sort IDs
 | Playlist | ID |
 | --- | --- |
-| Auto - Sort - Deutschrap - 3 | wWJSzentnO2I822Sb7VIRd |
-| Auto - Sort - Deutschrap - 4+ | uhtB8qhkpz99Uasusthyvf |
-| Auto - Sort - Elektro - 3 | r0gGxPHggCDdKoa32SXJtx |
-| Auto - Sort - Elektro - 4+ | y4ayzlwvHidduBM6ZrAPbm |
-| Auto - Sort - Goth - 3 | i4K9JzIjqcqophLm3k7rUX |
-| Auto - Sort - Goth - 4+ | p8JJigqfUBbA82V4TeeO7u |
+| Auto - Sort - Deutschrap - 3 | 59pT40plVwf9kmKnywoWaa |
+| Auto - Sort - Deutschrap - 4+ | 4UhK1JQlNxPvL15mcAERVx |
+| Auto - Sort - Elektro - 3 | 5m5a1MZiB86W52UzVfkfxo |
+| Auto - Sort - Elektro - 4+ | 4khiXwwg7Djhxvvxw3ig3z |
+| Auto - Sort - Goth - 3 | 2hMWpyJa91y2hyZP6BDAPK |
+| Auto - Sort - Goth - 4+ | 7loRiDdGUuAU5TVbprZGUH |
 | Auto - Sort - Metal - 3 | 18mlip5qHzgMG3GS5pJfah |
-| Auto - Sort - Metal - 4+ | TUFI1d6N4jkx7y78ZzEY6n |
-| Auto - Sort - Pop - 3 | POP0W3jSLakXznUtnNNYu1 |
-| Auto - Sort - Pop - 4+ | FICkaPKwlD9SxTjs53Ertw |
-| Auto - Sort - Punk + Oi - 3 | R4W1YaLv09D10pYDnmAz69 |
-| Auto - Sort - Punk + Oi - 4+ | LGhkBuNypHCuWx1o2wlh4s |
-| Auto - Sort - Rap - 3 | EfDEIwm9fBy0L7Q1977gM5 |
-| Auto - Sort - Rap - 4+ | 8bNv6nC8V6aPTihifUdDgV |
-| Auto - Sort - Rock - 3 | lfX36gwVs9tK21rw3Loepi |
-| Auto - Sort - Rock - 4+ | RisqHS4QqH9piqKNMxskYO |
+| Auto - Sort - Metal - 4+ | 1QQE8ZSWMxSwb44GkNSVV2 |
+| Auto - Sort - Pop - 3 | 5zYAnE2t0JNJja1rHew5ZE |
+| Auto - Sort - Pop - 4+ | 79hvgeFNsPDmukp0kQJzIF |
+| Auto - Sort - Punk + Oi - 3 | 2XdL7kp1a4JBWfgQlKX6pM |
+| Auto - Sort - Punk + Oi - 4+ | 2BwkcskMdnMgXXGZmTJvFK |
+| Auto - Sort - Rap - 3 | 0QZCffdvvm6OKVxMGCh4c0 |
+| Auto - Sort - Rap - 4+ | 219XQn5IjJj0va8fU7pak6 |
+| Auto - Sort - Rock - 3 | 4sUwP9fjAHyS8vX2TKwjDD |
+| Auto - Sort - Rock - 4+ | 6D6sALVWctKEBhqRewGQRg |
 | Auto - Sort - Rock Deutsch - 3 | 3cHOUIbHhlPQvgI3jRt4Lh |
 | Auto - Sort - Rock Deutsch - 4+ | 6ORmRvMOAlQ1a3XkbPaiiU |
-| Auto - Sort - Ska - 3 | ftD1SRO3luwlk7EXpWltY0 |
-| Auto - Sort - Ska - 4+ | ZNFuyJhpp4nLWzSqojDtFi |
+| Auto - Sort - Ska - 3 | 4PBLDNFmuR1id1E89Su73N |
+| Auto - Sort - Ska - 4+ | 2H6GI1T7BVMWL2njF1VJc0 |
 
 
 This Repo is now hosted on Forgejo and mirrored to Github
