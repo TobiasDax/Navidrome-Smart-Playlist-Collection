@@ -4,6 +4,15 @@ it contains multiple nested smart playlists that reference each other and are cu
 ### Caution
 the smart playlists work via IDs, those will not be the same for you so every playlist has go be fixed by hand.
 
+### Fixing IDs after Navidrome recreated the playlists
+`fix_playlist_ids.py` rewrites stale `inPlaylist` / `notInPlaylist` IDs (and the ID tables below) to the current ones, matching playlists by name via an older `navidrome.db` backup:
+
+```
+python3 -I fix_playlist_ids.py "<this folder>" <current navidrome.db> <older navidrome.db backup>          # dry run
+python3 -I fix_playlist_ids.py "<this folder>" <current navidrome.db> <older navidrome.db backup> --apply  # write
+```
+Stop Navidrome before running with `--apply`, then check the result with `git diff`.
+
 ## Different Playlist Types
 i have a few Playlist that are used as base lines for my other Smart Playlists, these can be found at the Bottom of the list but it might make sense to start the explanation with these.  
 all Playlists start with a number code to sort and differentiate them.
